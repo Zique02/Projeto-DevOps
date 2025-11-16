@@ -2,10 +2,10 @@
   "name": "projeto-devops",
   "version": "1.0.0",
   "description": "projeto final da cadeira de devops na pratica",
-  "main": "server.js",
+  "main": "src/server.js",
   "scripts": {
     "test": "echo \"Teste OK\"",
-    "start": "node server.js",
+    "start": "node src/server.js",
     "build": "npm install && echo \"Build completed\""
   },
   "author": "Henrique Rosa",
